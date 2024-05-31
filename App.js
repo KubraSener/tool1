@@ -1,5 +1,5 @@
 import React from 'react';
-
+// User Collection
 function App() {
   return (
     <div>
@@ -28,6 +28,8 @@ function App() {
         </div>
       </div>
 
+
+      {/* Account */}
       <div className="mt-20 flex justify-center">
         <div className="border-4 border-red-500 rounded-xl p-4 w-5/6 sm:w-2/5">
           <div className="flex justify-center text-black font-bold text-2xl">
